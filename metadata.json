@@ -1,0 +1,8 @@
+{
+  "name": "Softuition IT Solutions",
+  "description": "We build smart digital solutions for growing businesses. High-end custom websites, CRM systems, HRMS portals, and business dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
